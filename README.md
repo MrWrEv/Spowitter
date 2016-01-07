@@ -1,6 +1,6 @@
 # Spowitter
 A Twitter powered Spotify jukebox written in Python 3.
-Send a a tweet with the name of an artist and a song title, along with a hashtag (of your choosing!) and the track will be added to a playlist on Spotify. As if by some kind of magic!
+Send a tweet with the name of an artist and a song title, along with a hashtag (of your choosing!) and the track will be added to a playlist on Spotify. As if by some kind of magic!
 
 Required dependencies: 
 Tweepy from <a href = "www.tweepy.org">tweepy.org</a>.
